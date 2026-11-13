@@ -6,11 +6,7 @@ install.
 
 | Episode | Notebook | Open |
 |---|---|---|
-| ep10 — training a model, for real | `notebooks/ep10_house_prices.ipynb` | *coming soon* |
-
-<!-- Badge to paste in once the notebook exists:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dahimi/darija-ai-notebooks/blob/main/notebooks/ep10_house_prices.ipynb)
--->
+| ep10 — training a model, for real | `notebooks/ep10_house_prices.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dahimi/darija-ai-notebooks/blob/main/notebooks/ep10_house_prices.ipynb) |
 
 ## The data
 
