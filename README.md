@@ -16,8 +16,7 @@ matches what you saw on screen.
 | File | What it is |
 |---|---|
 | `houses.csv` | The eight houses from episode 1. |
-| `city_sample.csv` | 200 houses sampled from the invented city of episode 8 — the rows a real project would have. |
-| `city_full.csv` | The whole city (4,200 houses). Only possible because the city is invented: in real life you never see the whole population. |
+| `city_sample.csv` | 200 houses sampled from the invented city of episode 8. `hay_raqi` is 1 for an upscale neighbourhood. |
 
 Prices are in *milion* (millions of centimes), surfaces in m².
 
